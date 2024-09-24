@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinhaWiz
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning "Hello World"
+- 🌱 I’m currently learning to print "Hello World"
 - 💞️ I’m looking to collaborate on a war
 - 📫 How to reach me  (better if you don't)
 - 😄 Pronouns: 404
