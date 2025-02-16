@@ -10,6 +10,5 @@
 SinhaWiz/SinhaWiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- <p align="center">
-  <img src="![giphy](https://github.com/user-attachments/assets/48a37f19-9a83-4624-918e-8ecea126c4bc)" alt="animated" />
-</p>
+![giphy](https://github.com/user-attachments/assets/48a37f19-9a83-4624-918e-8ecea126c4bc)
+
