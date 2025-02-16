@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SinhaWiz
 - 👀 I’m interested in nothing
 - 🌱 I’m currently learning to print "Hello World" in every programming Languages
-- 💞️ I’m looking to collaborate on a war
+- 💞️ I’m looking forward to collaborate on a war
 - 📫 How to reach me ? (sinhartx2070@gmail.com)
 - 😄 Pronouns: 404
 - ⚡ Fun fact: There is no fun
