@@ -1,10 +1,10 @@
-                                                                                    - 👋 Hi, I’m @SinhaWiz
-                                                                                - 👀 I’m interested in nothing
-                                                           - 🌱 I’m currently learning to print "Hello World" in every programming Languages
-                                                                            - 💞️ I’m looking to collaborate on a war
-                                                                         - 📫 How to reach me ? (sinhartx2070@gmail.com)
-                                                                                     - 😄 Pronouns: 404
-                                                                               - ⚡ Fun fact: There is no fun
+- 👋 Hi, I’m @SinhaWiz
+- 👀 I’m interested in nothing
+- 🌱 I’m currently learning to print "Hello World" in every programming Languages
+- 💞️ I’m looking to collaborate on a war
+- 📫 How to reach me ? (sinhartx2070@gmail.com)
+- 😄 Pronouns: 404
+- ⚡ Fun fact: There is no fun
 
 <!---
 SinhaWiz/SinhaWiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
