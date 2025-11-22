@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SinhaWiz
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning to print "Hello World" in every programming Languages
+- 🌱 I’m currently learning to socialize and communicate as a normal human being
 - 💞️ I’m looking forward to collaborate on a war
 - 📫 How to reach me ? (sinhartx2070@gmail.com)
 - 😄 Pronouns: 404
