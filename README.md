@@ -4,7 +4,7 @@
 SinhaWiz/SinhaWiz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![giphy](https://github.com/user-attachments/assets/48a37f19-9a83-4624-918e-8ecea126c4bc)
+
 
 <h2 align="left">- 👋 Hi, I’m @SinhaWiz</h2>
 <h2>- 👀 I’m interested in nothing</h2>
@@ -79,7 +79,7 @@ You can click the Preview link to take a look at your changes.
 ![snake gif](https://github.com/SinhaWiz/SinhaWiz/blob/output/github-contribution-grid-snake.gif)
 
 ###
-
+![giphy](https://github.com/user-attachments/assets/48a37f19-9a83-4624-918e-8ecea126c4bc)
 <br clear="both">
 
 <img src="https://github.com/SinhaWiz/SinhaWiz/raw/output/pacman-contribution-graph.svg#gh-light-mode-only"
