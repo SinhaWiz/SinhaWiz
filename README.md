@@ -82,8 +82,3 @@ You can click the Preview link to take a look at your changes.
 ![giphy](https://github.com/user-attachments/assets/48a37f19-9a83-4624-918e-8ecea126c4bc)
 <br clear="both">
 
-<img src="https://github.com/SinhaWiz/SinhaWiz/raw/output/pacman-contribution-graph.svg#gh-light-mode-only"
-     alt="pacman contribution graph" />
-
-<img src="https://github.com/SinhaWiz/SinhaWiz/raw/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only"
-     alt="pacman contribution graph" />
