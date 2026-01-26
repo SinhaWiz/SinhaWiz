@@ -76,10 +76,7 @@ You can click the Preview link to take a look at your changes.
 <img align="right" height="100" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bHc3cXE5eHlvYWZjbWxkZWQ1Mm5zeTl5MzA0bnYxd2xod2cxcm1leCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/hv0QNfaCiiXSj4bwgK/giphy.gif"  />
 
 ###
-<br clear="both">
-
-<img src="https://github.com/SinhaWiz/SinhaWiz/raw/output/snake.svg"
-     alt="Snake animation" />
+![snake gif](https://github.com/SinhaWiz/SinhaWiz/blob/output/github-contribution-grid-snake.gif)
 
 ###
 
