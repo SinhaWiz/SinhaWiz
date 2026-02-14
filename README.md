@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinhaWiz&theme=chartreuse-dark&area=true&hide_border=false" height="150" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SinhaWiz&theme=chartreuse-dark&area=true&hide_border=false" height="350" alt="activity-graph graph"  />
 </div>
 
 ###
