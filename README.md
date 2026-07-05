@@ -6,12 +6,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-<h2 align="left">- 👋 Hi, I’m @SinhaWiz</h2>
-<h2>- 👀 I’m interested in nothing</h2>
-<h2>- 🌱 I’m currently learning to socialize and communicate as a normal human being</h2>
-<h2>- 💞️ I’m looking forward to collaborate on a war</h2>
+<h2 align="left">- 👋 Hi, I’m Naybur Rahman Sinha</h2>
+<h2>- 👀 I’m interested in Agentic AI workflows and Machine Learning</h2>
+<h2>- 🌱 I’m currently focusing on iterative self-development</h2>
+<h2>- 💞️ I’m looking forward to collaborate on Large scale real world projects</h2>
 <h2>- 📫 How to reach me ? (sinhartx2070@gmail.com)</h2>
-<h2>- 😄 Pronouns: 404</h2>
 <h2>- ⚡ Fun fact: There is no fun</h2>
 
 ###
